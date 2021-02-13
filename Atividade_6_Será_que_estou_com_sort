@@ -1,0 +1,7 @@
+cat arquivo.txt | sort : Ordena a o arquivo
+cat arquivo.txt | sort > arquivo_ordenado.txt : cria um novo arquivo com os itens ordenados
+
+join arquivo1.txt arquivo2.txt: Concatena dois arquivos
+
+cat arquivo.txt | wc: Quantidade de linhas / palavras / caracteres
+cat arquivo.txt | wc -l: quantidades de linhas apenas 
