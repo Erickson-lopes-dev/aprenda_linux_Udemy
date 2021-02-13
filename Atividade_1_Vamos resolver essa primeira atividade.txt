@@ -1,0 +1,19 @@
+1 - Linux é case sensitive
+2 - Pasta são diretórios(equivalentes)
+
+Comando --help: Para saber a função do comando
+
+ls: listagem de arquivos. ...
+
+ls -al: ls: listagem de arquivos incluindo ocultos
+
+ls /: Pasta raiz do sistema
+
+cd: navegue pelo sistema de arquivos. ...
+
+clear: Limpa a tela
+ctrl + l: Atalho para limpar a tela
+
+cat arquivo.txt: Visualizar o Conteúdo de um Arquivo com o Comando Cat Linux
+
+cat > arquivo.txt: Criar um Novo Arquivo com o Comando Cat
