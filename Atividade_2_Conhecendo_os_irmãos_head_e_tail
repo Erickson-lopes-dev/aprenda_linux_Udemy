@@ -1,0 +1,9 @@
+head arquivo.txt: Exibe as 10 primeiras linhas do arquivo
+
+head -3 arquivo.txt: Exibe a quantidade de linhas especificada do começo de um arquivo
+
+tail arquivo.txt: Exibe as 10 ultimas linhas do arquivo
+
+tail -3 arquivo.txt: Exibe a quantidade de linhas especificada do final de um arquivo
+
+tac arquivo.txt: Exibe a conteuo de um arquivo de trás para frente 

@@ -1,0 +1,12 @@
+echo argumentos: Este comando mostra texto na saída padrão seguido por uma nova linha.
+
+echo texto > texto.txt: Armazena o texto dentro de um arquivo
+
+echo texto_acrescentar >> texto.txt: Acrescenta na linhad e baixo o texto especificado 
+
+rm arquivo.txt: Remove um arquivo
+
+cat /var/log/dmesg | less: O piping '|' concatena comandos
+
+less: Páginador
+less q: quando estiver dentro do paginador precione 'q' para sair
