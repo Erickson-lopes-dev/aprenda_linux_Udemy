@@ -1,0 +1,11 @@
+cat arquivo.txt | grep "valor a procurar": Pesquisa dentro do arquivo valores correspondentes ao que estão dentre as aspas
+
+cat arquivo.txt | grep "valor" | wc -l: Exibe a quantidade de linhas com o valor encontrado no arquivo
+
+cat arquivo.txt | cut -d: -f1 | tr [A-Z] [a-z]:tudo que estiver entre A e Z maiusculo transforma em minusculo
+
+cat arquivo.txt | split -l 20: coloca o numero de linhas nos arquivos de saida
+
+cat arquivo.txt | head -78 | tail -1: Exibe linha especifica do arquivo
+
+cat arquivo.txt | tail -2 | head -1: Exibe a penultima linha de um arquivo

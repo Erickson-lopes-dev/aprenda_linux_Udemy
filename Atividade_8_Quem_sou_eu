@@ -1,0 +1,7 @@
+whoami: Verifica o nome o usuario 
+
+nano arquivo.txt: Abre um editor de texto
+
+paste arquivo1.txt arquivo2.txt: é usado para concatenar dois arquivos
+
+paste arquivo1.txt arquivo2.txt -d@: Concatenando arquivos utilizando um denominador
