@@ -1,0 +1,6 @@
+1 KKK-9999 Impala
+2 GGT-0001 Fusca
+3 TBM-2012 Brasilia
+4 TRQ-5412 Monza
+5 GGG-9876 Variant
+6 NWQ-9878 Opala
