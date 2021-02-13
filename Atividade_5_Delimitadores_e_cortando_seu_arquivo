@@ -1,1 +1,3 @@
 cut -dDelimitador -fCampo CAMPODESEJADO: Permite listar somente os campos desejados
+ex: cat /etc/passwd | cut -d: -f1,6:cat para listar | gera uma lista e exibe apenas o 1º e 2º campo
+
