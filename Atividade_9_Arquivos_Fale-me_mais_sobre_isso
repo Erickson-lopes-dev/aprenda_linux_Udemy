@@ -1,0 +1,3 @@
+cp arquivo.txt destino/arquivo2.txt: Comando para copiar
+
+mv arquivo destinho/nome.txt: Mover aquivo ou renomear
