@@ -1,0 +1,9 @@
+mkdir nome: Criar diretorios
+
+rmdir nome: Remove diretorios
+
+rm -rf nome: Forçar remoção
+
+rm nome: Remove arquivos
+
+mv nome_antigo nome_novo: Renomear arquivos e diretorios

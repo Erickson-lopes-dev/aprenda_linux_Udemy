@@ -1,0 +1,1 @@
+cut -dDelimitador -fCampo CAMPODESEJADO: Permite listar somente os campos desejados
